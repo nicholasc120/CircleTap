@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\assets"><file name="Fingerpop-48.vlw" path="C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\assets\Fingerpop-48.vlw"/></source><source path="C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\debug\assets"/></dataSet></merger>

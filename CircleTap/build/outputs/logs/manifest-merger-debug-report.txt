@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\9e7c1c26d7a0f2ca0847642fbb61a20c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\82bcab032e2278f9d1ee99a0445e65d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\a4687cee9ce57da994b0afe779e653f4\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\67af5664e26514841a93def21e2e55e6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\888c813443d6818494da9aba7528e342\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\9e674071a79f267b964bbac28737adf2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\c5776b300b5a739721c3218caf857635\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\9305f019551593bcff45d9d1eccff858\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\3286bb01ceba732eac088673b90c3638\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\fa34146dc66df0d8437a2095b7177b69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\419b6af51e65765fd30cd360f49f4a90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\5f3d4568213d456685ed625b047debe5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\800055731f5195a1f2a334dad390a2f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\49f90af99e9966b87240cf93b8081618\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\1b63acdb92b85424932cd502f8f4bbc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\6861ca428c5849978def682f840b78d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\05d093d56bd2f897a85a3b043d47b1ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\0caac7238fd1c8febc9aa002e8c4039c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\e0f3b41cca327b7add8bf8f254b8ad0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\b3d8d394760edba3b9605f37a4864be1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\357b3a125f93d9aa8a1f79a4954351d8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\c6566ca509409e2c865806d617f07ae9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\0434e9826b1fc3a4f158630a04aa7ee2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\ba3511fb3dca4e3f9815915faf8d8d5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\21ac49de73e7883968e9ebbc2f029fa0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\178617882b150720db75bebeec9748f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\6cb4e4de8010cb1bd464f4e229894ce9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\4ebe42893462f2fe962e70e6305420fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\c4c81bb47e211e576dc7025fa280f128\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\f8ec35b7ec8367ab8c2140f542829025\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\7ca3e55a6f248ca6ecafd775c3858902\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\6f76d18c22956e7c59a810923ad088f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\e80fe22cdd49389d2d15c0ce0d7c067b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\236252c2929c988aebd16075cf3b569e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:2:120-139
+		INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:2:94-119
+		INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:2:70-93
+		INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:3:5-73
+INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:3:5-73
+INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:3:5-73
+MERGED from [com.android.support:design:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\9e7c1c26d7a0f2ca0847642fbb61a20c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\9e7c1c26d7a0f2ca0847642fbb61a20c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\82bcab032e2278f9d1ee99a0445e65d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\82bcab032e2278f9d1ee99a0445e65d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\a4687cee9ce57da994b0afe779e653f4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\a4687cee9ce57da994b0afe779e653f4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\67af5664e26514841a93def21e2e55e6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\67af5664e26514841a93def21e2e55e6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\888c813443d6818494da9aba7528e342\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\888c813443d6818494da9aba7528e342\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\9e674071a79f267b964bbac28737adf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\9e674071a79f267b964bbac28737adf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\c5776b300b5a739721c3218caf857635\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\c5776b300b5a739721c3218caf857635\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\9305f019551593bcff45d9d1eccff858\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\9305f019551593bcff45d9d1eccff858\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\3286bb01ceba732eac088673b90c3638\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\3286bb01ceba732eac088673b90c3638\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\fa34146dc66df0d8437a2095b7177b69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\fa34146dc66df0d8437a2095b7177b69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\419b6af51e65765fd30cd360f49f4a90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\419b6af51e65765fd30cd360f49f4a90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\5f3d4568213d456685ed625b047debe5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\5f3d4568213d456685ed625b047debe5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\800055731f5195a1f2a334dad390a2f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\800055731f5195a1f2a334dad390a2f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\49f90af99e9966b87240cf93b8081618\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\49f90af99e9966b87240cf93b8081618\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\1b63acdb92b85424932cd502f8f4bbc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\1b63acdb92b85424932cd502f8f4bbc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\6861ca428c5849978def682f840b78d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\6861ca428c5849978def682f840b78d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\05d093d56bd2f897a85a3b043d47b1ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\05d093d56bd2f897a85a3b043d47b1ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\0caac7238fd1c8febc9aa002e8c4039c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\0caac7238fd1c8febc9aa002e8c4039c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\e0f3b41cca327b7add8bf8f254b8ad0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\e0f3b41cca327b7add8bf8f254b8ad0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\b3d8d394760edba3b9605f37a4864be1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\b3d8d394760edba3b9605f37a4864be1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\357b3a125f93d9aa8a1f79a4954351d8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\357b3a125f93d9aa8a1f79a4954351d8\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\c6566ca509409e2c865806d617f07ae9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\c6566ca509409e2c865806d617f07ae9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\0434e9826b1fc3a4f158630a04aa7ee2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\0434e9826b1fc3a4f158630a04aa7ee2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\ba3511fb3dca4e3f9815915faf8d8d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\ba3511fb3dca4e3f9815915faf8d8d5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\21ac49de73e7883968e9ebbc2f029fa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\21ac49de73e7883968e9ebbc2f029fa0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\178617882b150720db75bebeec9748f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\178617882b150720db75bebeec9748f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\6cb4e4de8010cb1bd464f4e229894ce9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\6cb4e4de8010cb1bd464f4e229894ce9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\4ebe42893462f2fe962e70e6305420fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\4ebe42893462f2fe962e70e6305420fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\c4c81bb47e211e576dc7025fa280f128\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\c4c81bb47e211e576dc7025fa280f128\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\f8ec35b7ec8367ab8c2140f542829025\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\f8ec35b7ec8367ab8c2140f542829025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\7ca3e55a6f248ca6ecafd775c3858902\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\7ca3e55a6f248ca6ecafd775c3858902\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\6f76d18c22956e7c59a810923ad088f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\6f76d18c22956e7c59a810923ad088f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\e80fe22cdd49389d2d15c0ce0d7c067b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\e80fe22cdd49389d2d15c0ce0d7c067b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\236252c2929c988aebd16075cf3b569e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\236252c2929c988aebd16075cf3b569e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:3:5-73
+INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:3:5-73
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\67af5664e26514841a93def21e2e55e6\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:3:42-71
+		INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:3:15-41
+		INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:4:5-11:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\9e7c1c26d7a0f2ca0847642fbb61a20c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\9e7c1c26d7a0f2ca0847642fbb61a20c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\a4687cee9ce57da994b0afe779e653f4\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\a4687cee9ce57da994b0afe779e653f4\AndroidManifest.xml:9:5-13:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\67af5664e26514841a93def21e2e55e6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\67af5664e26514841a93def21e2e55e6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:percent:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\5f3d4568213d456685ed625b047debe5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\5f3d4568213d456685ed625b047debe5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\357b3a125f93d9aa8a1f79a4954351d8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\357b3a125f93d9aa8a1f79a4954351d8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\c6566ca509409e2c865806d617f07ae9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\c6566ca509409e2c865806d617f07ae9\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\0434e9826b1fc3a4f158630a04aa7ee2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\0434e9826b1fc3a4f158630a04aa7ee2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\c6566ca509409e2c865806d617f07ae9\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:4:53-79
+	android:icon
+		ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:4:18-52
+activity#CircleTap.MainActivity
+ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:5:9-10:20
+	android:theme
+		ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:5:48-115
+	android:name
+		ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:5:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:6:13-9:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:7:17-68
+	android:name
+		ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:7:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:8:17-76
+	android:name
+		ADDED from C:\Users\cerva\Documents\Projects\CircleTap\android\CircleTap\src\main\AndroidManifest.xml:8:27-74
+uses-library#com.google.android.wearable
+ADDED from [com.google.android.support:wearable:2.4.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\a4687cee9ce57da994b0afe779e653f4\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [com.google.android.support:wearable:2.4.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\a4687cee9ce57da994b0afe779e653f4\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.support:wearable:2.4.0] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\a4687cee9ce57da994b0afe779e653f4\AndroidManifest.xml:11:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\67af5664e26514841a93def21e2e55e6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:percent:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\5f3d4568213d456685ed625b047debe5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:percent:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\5f3d4568213d456685ed625b047debe5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\357b3a125f93d9aa8a1f79a4954351d8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\357b3a125f93d9aa8a1f79a4954351d8\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\67af5664e26514841a93def21e2e55e6\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.2] C:\Users\cerva\.gradle\caches\transforms-2\files-2.1\67af5664e26514841a93def21e2e55e6\AndroidManifest.xml:27:13-51

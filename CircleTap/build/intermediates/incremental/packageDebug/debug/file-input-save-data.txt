@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri May 22 15:18:06 MDT 2020
+1.base=C\:\\Users\\cerva\\Documents\\Projects\\CircleTap\\android\\CircleTap\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=Fingerpop-48.vlw
+0.set=ASSET
+0.base=C\:\\Users\\cerva\\Documents\\Projects\\CircleTap\\android\\CircleTap\\build\\intermediates\\assets\\debug
+1.path=classes.dex
